@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+html,
+body {
+    background: #333 url("data:image/jpeg;base64,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");
+}
+.slides {
+    padding: 0;
+    width: 609px;
+    height: 420px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+.slides * {
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+.slides input {
+    display: none;
+}
+.slide-container {
+    display: block;
+}
+.slide {
+    top: 0;
+    opacity: 0;
+    width: 609px;
+    height: 420px;
+    display: block;
+    position: absolute;
+    transform: scale(0);
+    transition: all 0.7s ease-in-out;
+}
+.slide img {
+    width: 100%;
+    height: 100%;
+}
+.nav label {
+    width: 200px;
+    height: 100%;
+    display: none;
+    position: absolute;
+    opacity: 0;
+    z-index: 9;
+    cursor: pointer;
+    transition: opacity 0.2s;
+    color: #FFF;
+    font-size: 156pt;
+    text-align: center;
+    line-height: 380px;
+    font-family: "Varela Round", sans-serif;
+    background-color: rgba(255, 255, 255, 0.3);
+    text-shadow: 0px 0px 15px rgb(119, 119, 119);
+}
+.slide:hover + .nav label {
+    opacity: 0.5;
+}
+.nav label:hover {
+    opacity: 1;
+}
+.nav .next {
+    right: 0;
+}
+input:checked + .slide-container .slide {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 1s ease-in-out;
+}
+input:checked + .slide-container .nav label {
+    display: block;
+}
+.nav-dots {
+    width: 100%;
+    bottom: 9px;
+    height: 11px;
+    display: block;
+    position: absolute;
+    text-align: center;
+}
+.nav-dots .nav-dot {
+    top: -5px;
+    width: 11px;
+    height: 11px;
+    margin: 0 4px;
+    position: relative;
+    border-radius: 100%;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.nav-dots .nav-dot:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+input#img-1:checked ~ .nav-dots label#img-dot-1,
+input#img-2:checked ~ .nav-dots label#img-dot-2,
+input#img-3:checked ~ .nav-dots label#img-dot-3,
+input#img-4:checked ~ .nav-dots label#img-dot-4,
+input#img-5:checked ~ .nav-dots label#img-dot-5,
+input#img-6:checked ~ .nav-dots label#img-dot-6 {
+    background: rgba(0, 0, 0, 0.8);
+}
